@@ -1,6 +1,7 @@
-# my_card
+### myCard Android App
 
 A new Flutter application.
+You can create and share your contact card using this app.
 
 ## Getting Started
 
